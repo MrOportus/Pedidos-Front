@@ -9,7 +9,8 @@ node_modules
 
 # Ignora los archivos relacionados a API keys
 .env
-
+.env.dev
+.env.prod
 # Ignora archivos de configuración SASS
 .sass-cache
 .vercel
